@@ -5,6 +5,6 @@
      - supabaseAnonKey: khóa "anon public" (khóa công khai, được phép để trong mã nguồn)
    TUYỆT ĐỐI KHÔNG dán khóa "service_role" vào đây. */
 window.B1_CONFIG = {
-  supabaseUrl: "",
-  supabaseAnonKey: ""
+  supabaseUrl: "https://kzychjndhdnmhrblabhj.supabase.co",
+  supabaseAnonKey: "sb_publishable_VBa9MSy27aWXUhsWlaPoTA_LFIRUY_X"
 };
